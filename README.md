@@ -1,4 +1,4 @@
-# SREEVARSINI G B | At A Glance ⭐
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FFFF00&center=true&vCenter=true&width=700&lines=SREEVARSINI+G+B;At+A+Glance+⭐)
 
 Civil Engineering graduate with a strong focus on continuous learning and skill development. Developed a strong interest in Data Science with hands-on exposure to Data Analytics and related fields. Motivated and adaptable, eager to apply my analytical skills, add value, and grow in collaborative environments.
 
