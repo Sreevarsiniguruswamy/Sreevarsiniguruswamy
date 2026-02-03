@@ -1,5 +1,7 @@
 # SREEVARSINI G B | At A Glance ⭐
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFF00&center=true&vCenter=true&width=600&lines=Passion+%7C+Hard+Work+%7C+Consistency;Discipline+%7C+Determination)
+
 Civil Engineering graduate with a strong focus on continuous learning and skill development. Developed a strong interest in Data Science with hands-on exposure to Data Analytics and related fields. Motivated and adaptable, eager to apply my techical skills, add value, and grow in collaborative environments.
 
 ### 💻 Technical Skills
@@ -15,9 +17,6 @@ Civil Engineering graduate with a strong focus on continuous learning and skill 
 
 🌟 I strive to continuously learn, enhance my skills, and refine my knowledge to become an improved version of myself and grow in challenging environments.
 
-<br>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFF00&center=true&vCenter=true&width=600&lines=Passion+%7C+Hard+Work+%7C+Consistency;Discipline+%7C+Determination)
 
 
 
